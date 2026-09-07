@@ -90,6 +90,17 @@ PC installed with SCILAB.
 <br>ylabel('Magnitude ');
 <br>title(' Frequency Response of Butterworth IIR LPF');
 
+# Manual Calculation :
+# Impulse Invariant :
+<img width="901" height="1509" alt="image" src="https://github.com/user-attachments/assets/13516452-153b-41e4-ab1c-bc9299c7c31c" />
+<img width="1002" height="1563" alt="image" src="https://github.com/user-attachments/assets/48b6f31f-f245-482b-a0b0-d6498a06be34" />
+<img width="954" height="1504" alt="image" src="https://github.com/user-attachments/assets/d1f569bf-06cd-4fdf-83db-dc34e86c4595" />
+
+# Bilinear :
+<img width="840" height="1512" alt="image" src="https://github.com/user-attachments/assets/9eeef3b7-8681-4f7f-9331-551471cdbbc3" />
+<img width="948" height="1599" alt="image" src="https://github.com/user-attachments/assets/7c89a4c9-f40f-44a6-95ff-ea4b5c887f65" />
+<img width="965" height="1600" alt="image" src="https://github.com/user-attachments/assets/0a64e7cf-363c-48bf-a1dc-672a947702e8" />
+
 
 
 # OUTPUT: 
