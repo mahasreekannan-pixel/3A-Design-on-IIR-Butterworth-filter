@@ -116,6 +116,7 @@ PC installed with SCILAB.
 
 
 # RESULT: 
-
 Thus, design of Butterworth Low pass IIR filter waveforms were plotted and output was verified.
 
+<img width="948" height="1599" alt="image" src="https://github.com/user-attachments/assets/7c89a4c9-f40f-44a6-95ff-ea4b5c887f65" />
+<img width="965" height="1600" alt="image" src="https://github.com/user-attachments/assets/0a64e7cf-363c-48bf-a1dc-672a947702e8" />
